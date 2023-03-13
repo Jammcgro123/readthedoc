@@ -17,6 +17,5 @@ Contents
 --------
 
 .. toctree::
-.. test::
    usage
    api
